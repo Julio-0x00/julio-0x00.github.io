@@ -1,7 +1,7 @@
 ---
 layout: single
 title: SolidState - HackTheBox
-excerpt: "Explotación de una vulnerabilidad en Apache James 2.3.2 para obtener acceso inicial, recuperación de credenciales a través de POP3 y escalada de privilegios mediante un script en /opt"
+excerpt: "Explotación de una vulnerabilidad en Apache James 2.3.2 para obtener acceso inicial, filtración de credenciales a través de POP3 y escalada de privilegios mediante un script en /opt"
 date: 2025-03-15
 classes: wide
 header:
@@ -20,7 +20,7 @@ tags:
 
 ## Resumen
 
-SolidState es una máquina de HackTheBox en la que se explota una vulnerabilidad en Apache James 2.3.2 para obtener acceso inicial. Luego, se recuperan credenciales a través de POP3 para acceder vía SSH. Finalmente, se escala privilegios aprovechando un script con permisos de escritura en /opt, logrando acceso como root.
+SolidState es una máquina de HackTheBox en la que se explota una vulnerabilidad en Apache James 2.3.2 para obtener acceso inicial. Luego, se filtran credenciales a través de POP3 para acceder vía SSH. Finalmente, se escala privilegios aprovechando un script con permisos de escritura en /opt, logrando acceso como root.
 
 ## Reconocimiento
 
