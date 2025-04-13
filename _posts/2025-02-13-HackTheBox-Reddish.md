@@ -10,6 +10,7 @@ header:
   icon: /assets/images/hackthebox.webp
 categories:
   - HackTheBox
+  - Red Team
 tags:  
   - Pivoting
   - Chisel

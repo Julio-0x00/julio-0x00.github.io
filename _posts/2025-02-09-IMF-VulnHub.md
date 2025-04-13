@@ -10,6 +10,7 @@ header:
   icon: /assets/images/vulnhub.png
 categories:
   - VulnHub
+  - Red Team
 tags:  
   - CTF
   - VulnHub
