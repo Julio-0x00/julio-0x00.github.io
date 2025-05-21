@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Jerry - HackTheBox
-excerpt: "Explotación de un servidor Windows con Apache Tomcat expuesto. Aprovechamos credenciales por defecto y desplegamos una web shell mediante un archivo .war para obtener acceso como NT AUTHORITY\SYSTEM"
+excerpt: "Explotación de un servidor Windows con Apache Tomcat expuesto. Aprovechamos credenciales por defecto y desplegamos una web shell mediante un archivo .war para obtener acceso como NT AUTHORITY SYSTEM"
 date: 2025-05-20
 classes: wide
 header:
