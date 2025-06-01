@@ -29,9 +29,7 @@ Realizamos un escaneo de puertos con nmap para identificar los servicios disponi
 
 ![](/assets/images/Heist/Reconocimiento-Puertos.png)
 
-También ejecutamos scripts básicos de reconocimiento con nmap:
-
-![](/assets/images/Heist/Reconocimiento-Puertos-Scripts.png)
+También ejecutamos scripts básicos de reconocimiento con nmap.
 
 El servidor expone los siguientes servicios:
 
