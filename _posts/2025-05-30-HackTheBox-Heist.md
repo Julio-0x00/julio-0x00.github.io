@@ -85,7 +85,7 @@ La bandera 'User' se encuentra en el directorio 'Desktop' del usuario 'Chase':
 
 Si observamos la lista de procesos, podemos encontrarnos con el proceso del navegador 'Firefox', podemos dumpear su memoria para ver si tiene credenciales de algún panel de autenticación.
 
-![](/assets/images/Heist/Process.png)
+![](/assets/images/Heist/List-Process.png)
 
 Para dumpear la memoria del proceso, existe una herramienta llamada 'ProcDump', lo descargamos y lo añadimos a la máquina:
 
