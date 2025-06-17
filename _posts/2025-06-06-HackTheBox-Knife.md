@@ -32,7 +32,7 @@ Realizamos un escaneo de puertos con nmap para identificar los servicios disponi
 
 El servidor expone el siguiente servicio:
 
-- TCP en el puerto 22
+- SSH en el puerto 22
 
 - HTTP en el puerto 80
 
